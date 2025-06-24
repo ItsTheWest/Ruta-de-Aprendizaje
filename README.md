@@ -3,5 +3,7 @@ Este repositorio tiene como objetivo almacenar y documentar de forma organizada 
 
 Por ultimo se incluirán los fundamentos teóricos y definiciones clave que permitan comprender el funcionamiento, la lógica y el propósito de cada herramienta.Es importante tener en cuenta que, aunque cada lenguaje de programación posee una sintaxis propia, todos comparten una lógica fundamental y se basan en principios comunes. La diferencia radica principalmente en la forma en que se estructuran y expresan las instrucciones, pero los conceptos esenciales como variables, estructuras de control, funciones y tipos de datos suelen mantenerse consistentes entre ellos.
 
+## Apartados
+
 
 
