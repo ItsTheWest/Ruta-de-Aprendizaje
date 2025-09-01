@@ -1,14 +1,19 @@
-# Guía básica para subir un proyecto con Git
+<div align="center">
+  
+# Guía básica para subir un proyecto con Git  
 
-Esta es una documentación sencilla para entender lo básico de Git y cómo subir un proyecto a un repositorio remoto (por ejemplo, GitHub).
+Esta es una documentación sencilla para entender lo básico de Git y cómo subir un proyecto a un repositorio remoto (por ejemplo, GitHub).  
 
 ---
 
-## ¿Qué es Git y para qué sirve?
+## ¿Qué es Git y para qué sirve?  
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Logo de Git" width="120"/>  
 
-![Logo de Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+Git es un **sistema de control de versiones** que permite llevar un historial de los cambios en tu proyecto, trabajar en equipo sin sobrescribir código y mantener sincronizado tu trabajo con repositorios remotos como GitHub. 
 
-**Git** es un sistema de control de versiones distribuido que sirve para llevar un historial de cambios de tu proyecto, trabajar en equipo sin perder trabajo y tener un respaldo seguro del código.
+<br>
+
+</div>
 
 Con Git puedes:  
 - Guardar versiones de tu proyecto (**commits**).  
