@@ -111,9 +111,7 @@ git push -u origin main
 ```
 
 (En algunos casos puede ser `master` en vez de `main`).
-Al realizar tu primer push eso significa que a partir de ese momento Git ya sabe a qué remoto y a qué rama debe subir los cambios.
-
-Entoces de allí en adleante simplemnet puedes usar 
+Al realizar tu primer push eso significa que a partir de ese momento Git ya sabe a qué remoto y a qué rama debe subir los cambios.Entoces de allí en adleante simplemnet puedes usar 
 
 ```bash
 git push 
