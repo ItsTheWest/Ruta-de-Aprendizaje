@@ -111,9 +111,13 @@ git push -u origin main
 ```
 
 (En algunos casos puede ser `master` en vez de `main`).
+Al realizar tu primer push eso significa que a partir de ese momento Git ya sabe a qué remoto y a qué rama debe subir los cambios.
 
-![Push a GitHub](https://kinsta.com/wp-content/uploads/2023/07/git-push-command-1024x512.png)
+Entoces de allí en adleante simplemnet puedes usar 
 
+```bash
+git push 
+```
 ---
 
 ## 7. Pasos comunes después
