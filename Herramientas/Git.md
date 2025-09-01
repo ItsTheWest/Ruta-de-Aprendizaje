@@ -48,7 +48,8 @@ git init
 
 Esto creará un nuevo repositorio Git en esa carpeta.
 
-![Repositorio local](https://wac-cdn.atlassian.com/dam/jcr:37a1e3e5-30a9-4b62-a0e6-04d6b8b8f52e/hero.svg?cdnVersion=1216)
+Git crea un repositorio local en la carpeta en la que estés ubicado en ese momento.
+Dentro de esa carpeta se genera un subdirectorio oculto llamado .git/, que es donde Git guarda toda la información (historial, commits, ramas, etc.).
 
 ---
 
@@ -81,8 +82,6 @@ Ejemplo:
 ```bash
 git commit -m "Inicializando proyecto"
 ```
-
-![Commit ejemplo](https://miro.medium.com/v2/resize:fit:640/format:webp/1*v2QwaYJtW05gtn-8_Xw76A.png)
 
 ---
 
@@ -147,4 +146,3 @@ git push -u origin main
 ---
 
 ✅ Con esto ya tienes lo básico para iniciar con Git y subir tus proyectos.
-
