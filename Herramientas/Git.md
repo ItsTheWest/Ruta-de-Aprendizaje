@@ -8,8 +8,7 @@ Esta es una documentación sencilla para entender lo básico de Git y cómo subi
 
 ![Logo de Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
 
-**Git** es un sistema de control de versiones distribuido.  
-Sirve para llevar un historial de cambios de tu proyecto, trabajar en equipo sin perder trabajo y tener un respaldo seguro del código.
+**Git** es un sistema de control de versiones distribuido que sirve para llevar un historial de cambios de tu proyecto, trabajar en equipo sin perder trabajo y tener un respaldo seguro del código.
 
 Con Git puedes:  
 - Guardar versiones de tu proyecto (**commits**).  
