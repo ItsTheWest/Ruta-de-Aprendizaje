@@ -1,0 +1,17 @@
+.resultado {
+  margin-top: 20px;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+}
+
+.datos {
+  display: flex;              /* Pone el texto y el valor en la misma fila */
+/* Empuja el valor hacia la derecha */
+  margin-bottom: 10px;        /* Espacio entre filas */
+  width: 250px;               /* Ajusta el ancho del contenedor */
+}
+
+.datos p {
+  margin: 0;                  /* Quita el margen por defecto del <p> */
+  font-weight: bold;          /* Resalta el número */
+}
